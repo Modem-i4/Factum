@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.etc.factum"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.etc.factum"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.etc.factum"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.etc.factum"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.etc.factum"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.etc.factum"
+    }
+  },
+  "dependent_plugins": {}
+}
